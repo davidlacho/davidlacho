@@ -17,7 +17,7 @@
 
 - 📝 I sometimes write articles on games and code and projects [https://davidlachocom.wordpress.com/](https://davidlachocom.wordpress.com/)
 
-- 💬 Ask me about **Python, Flask, REST,**
+- 💬 Ask me about **Python, Flask, REST**
 
 - 📫 How to reach me **david.lacho@gmial.com**
 
