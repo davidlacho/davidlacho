@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Lacho</h1>
-<h3 align="center">A passionate Senior Software Engineer in Canada</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidlacho&label=Profile%20views&color=0e75b6&style=flat" alt="davidlacho" /> </p>
+<h3 align="center">A passionate Senior Software Engineer at Postscript</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidlacho" alt="davidlacho" /></a> </p>
 
-- 🔭 I’m currently working on [the Postscript API](https://www.postscript.io/)
+- 🔭 I’m currently working at [Postscript](https://www.postscript.io/)
 
 - 🌱 I’m currently learning **Kubernetes**
 
@@ -19,7 +17,7 @@
 
 - 💬 Ask me about **Python, Flask, REST**
 
-- 📫 How to reach me **david.lacho@gmial.com**
+- 📫 How to reach me **david.lacho@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/david-lacho/](https://www.linkedin.com/in/david-lacho/)
 
