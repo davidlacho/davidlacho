@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working at [Postscript](https://www.postscript.io/)
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **[React Query](https://react-query.tanstack.com/)**
 
 - 👯 We're actively looking for Software Engineers! [Careers Page](https://www.postscript.io/careers/)
 
-- 🤝 I’m looking for help with **Kubernetes, Infrastructure Engineering, and Leadership Mentoring**
+- 🤝 I’m looking for help with **Kubernetes, Infrastructure Engineering**
 
 - 👨‍💻 All of my projects are available at [github.com/davidlacho](github.com/davidlacho)
 
 - 📝 I sometimes write articles on games and code and projects [https://davidlachocom.wordpress.com/](https://davidlachocom.wordpress.com/)
 
-- 💬 Ask me about **Python, Flask, REST**
+- 💬 Ask me about **Python, Flask, REST, Infrastructure, Approximate String Matching**
 
 - 📫 How to reach me **david.lacho@gmail.com**
 
