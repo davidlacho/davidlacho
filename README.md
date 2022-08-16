@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning Cloud streaming, big data, analytics, and machine learning. 
 
-- 👯 We're actively looking for Software Engineers! [Careers Page](https://www.postscript.io/careers/)
-
-- 🤝 I’m looking for help with **Kubernetes, Infrastructure Engineering**
+- 🤝 I’m looking for help with **Infrastructure Engineering**
 
 - 👨‍💻 All of my projects are available at [github.com/davidlacho](github.com/davidlacho)
 
