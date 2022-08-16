@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Postscript](https://www.postscript.io/)
 
-- 🌱 I’m currently learning **[React Query](https://react-query.tanstack.com/)**
+- 🌱 I’m currently learning Cloud streaming, big data, analytics, and machine learning. 
 
 - 👯 We're actively looking for Software Engineers! [Careers Page](https://www.postscript.io/careers/)
 
