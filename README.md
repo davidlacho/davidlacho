@@ -1,77 +1,60 @@
 # David Lacho
+### Senior Backend Software Engineer | Tech Expert | DEI Advocate
+[LinkedIn Profile](www.linkedin.com/in/david-lacho) | Winnipeg, Manitoba, Canada
 
-**Senior Backend Software Engineer**  
-🔗 **LinkedIn:** [linkedin.com/in/david-lacho/](https://linkedin.com/in/david-lacho/)  
-🖥️ **GitHub:** [github.com/davidlacho](https://github.com/davidlacho)  
+## Professional Summary
+Senior Backend Software Engineer at Postscript, adept at product enhancement, cloud infrastructure development, and API optimization. Committed to diversity, equity, and inclusion (DEI) in the tech industry. Co-inventor of patents, experienced in leading teams, and streamlining engineering processes. Expertise in REST APIs, webhook architecture, and CI/CD pipelines.
 
-## 💼 Professional Summary
+## Core Competencies
+- **Product Enhancement:** Spearheaded initiatives to improve software functionality, enhancing user experience and product performance.
+- **Webhook Architecture:** Optimized and designed advanced webhook systems for better data handling and workflow efficiency.
+- **Time Management:** Proven ability to handle multiple projects efficiently under tight deadlines.
+- **Patent Invention:** Co-authored patents related to software architecture and functionality improvements.
+- **API Gateways:** Developed and maintained secure, scalable API gateways.
+- **Communication:** Exceptional communication skills, both in team collaboration and client interactions.
+- **Cloud Infrastructure:** Designed and deployed robust cloud infrastructure, ensuring scalable and reliable service delivery.
+- **WebSocket:** Implemented WebSocket technology for real-time data transfer and communication.
+- **Organization:** Strong organizational skills in project management and team coordination.
+- **REST APIs:** Developed RESTful APIs for various applications, improving scalability and maintainability.
+- **GitHub Actions:** Utilized GitHub Actions for automating software builds and deployments, enhancing the CI/CD process.
+- **Teamwork:** Fostered a collaborative team environment, encouraging innovation and shared success.
 
-Senior backend software engineer at Postscript with expertise in architecting product growth strategies and implementing cloud infrastructure. Passionate about promoting diversity, equity, and inclusion in the tech space. I excel in mentoring, leading group sessions, and developing software solutions for various organizational needs.
+## Work History
+### Postscript (August 2020 – Present)
+Remote
+#### Senior Backend Software Engineer (August 2020 – Present)
+- Led the development of the backend for Postscript Sales, significantly improving sales processes.
+- Co-authored patent 20220198431, contributing to innovative backend solutions for Text to Buy services.
+- Engineered WebSocket infrastructure, enhancing real-time operations for partner shops.
+- Integrated conversational features into the platform, driving additional revenue.
 
-## 🛠 Experience
+### Freelance Software Developer (November 2017 – Present)
+Wise Wombat, Remote
+- Developed custom software and websites for diverse clients, including e-commerce platforms and non-profit organizations.
+- Specialized in augmented reality, game development, and capacity building.
 
-### 🚀 Postscript
+### Full Stack Developer (February 2020 – August 2020)
+First Peoples' Cultural Council, Remote
+- Enhanced front-end and back-end code for FirstVoices, improving user experience and functionality.
+- Managed weekly releases, ensuring timely delivery of new features and enhancements.
 
-**Senior Backend Software Engineer** | August 2020 - Present
+### Software Developer (March 2019 – February 2020)
+QHR Technologies, Vancouver, British Columbia, Canada
+- Developed Spring Boot and Ruby on Rails products, including APIs for video patient conferencing.
+- Implemented a failover system for TURN/STUN services, improving video conferencing reliability.
 
-- Architect and implement the **Postscript Sales** backend to enhance brand sales.
-- Innovate with co-inventing patent **20220198431** for **Text to Buy** from Postscript.
-- Develop and maintain WebSockets infrastructure ensuring real-time and batched data operations.
-- Initiate conversational features, generating added revenue for both Shops & Postscript.
-- Oversee and develop a comprehensive referral program, enhancing engineering onboarding processes and CI/CD pipelines in GitHub.
-- Lead and organize group sessions, promote mentoring, and drive ERG & DEI strategies company-wide.
+### The University of British Columbia (September 2012 – February 2020)
+Kelowna, British Columbia, Canada
+- Developed an online environmental encyclopedia in the Kala language, aiding in cultural preservation.
+- Worked as a Web Developer (Research Assistant) on a project with the Taku River Tlingit First Nation.
 
-**Pride ERG Lead** | Aug 2020 - Jun 2023
+## Education
+- **Master's Degree in Interdisciplinary Studies** (September 2015 – February 2018)
+  The University of British Columbia, Kelowna, British Columbia, Canada
+- **Bachelor’s Degree, Double Major in French and Anthropology** (September 2010 – June 2014)
+  The University of British Columbia, Kelowna, British Columbia, Canada
 
-- Pioneered ERG & DEI initiatives, successfully promoting increased diversity and inclusivity at Postscript.
-- Facilitated technical training for staff, empowering them with enhanced skills and knowledge.
-
-### 🌏 Wise Wombat
-
-**Software Developer** | November 2017 - Present
-
-- Produce software solutions and websites catering to e-commerce, nonprofits, research, and Indigenous communities.
-
-### 🖥️ First Peoples' Cultural Council
-
-**Full Stack Developer** | February 2020 - August 2020
-
-- Optimized both front-end and back-end coding for **FirstVoices**, delivering a robust user experience.
-- Lead and managed weekly releases, ensuring timely deliverables.
-- Elevated code coverage and reliability by over 80%, guaranteeing platform stability.
-
-### 🌐 QHR Technologies
-
-**Software Developer** | March 2019 - February 2020
-
-- Spearheaded product development for various projects using **Spring Boot** and **Ruby on Rails**.
-- Revolutionized the Jenkins build pipeline with SonarQube, reinforcing a minimum 80% code coverage.
-
-### 🎓 The University of British Columbia
-
-**Software Developer** | November 2017 - February 2020
-
-- Lead developer for an online environmental encyclopedia in the **Kala language**.
-
-**Web Developer (Research Assistant)** | September 2012 - June 2014
-
-- Collaborated on a unique map project that utilized Google's Maps Platform, prominently featuring **Tlingit place names**.
-
-## 🔧 Skills
-
-- **Languages & Frameworks:** JavaScript, React, Node.js, Flask, Python, Ruby on Rails, Express.js
-- **Technologies:** AWS, REST, WebSockets, API Gateways, Jenkins, Docker, WebRTC, OAuth
-- **Testing & QA:** Sentry, Pytest, Test Driven Development
-- **DevOps:** Terraform, Continuous Deployment, Canary Releases
-
-### Education
-
-**The University of British Columbia - Kelowna, BC**
-
-- _Master's Degree: Interdisciplinary Studies_ | Sep 2017 - Feb 2020
-
-  - Thesis: “Developing an augmented reality app in Secwepemctsín with Splatsin Tsm7aksaltn.”
-  - Recipient of 15 scholarships, including the National SSHRC Graduate Scholarship.
-
-- _Bachelor of Arts, French And Anthropology_ | Sep 2010 - Jun 2014
-  - Recipient of 10 scholarships and awards.
+## Skills and Interests
+- **Languages:** Fluent in English and French, proficient in Tok Pisin, with elementary knowledge of Spanish and German.
+- **Patents:** Co-inventor of "Text Messaging Service Based Commerce System" (20220198431).
+- **Publications:** Authored various articles on linguistics, technology, and cultural studies.
