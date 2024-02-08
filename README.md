@@ -6,6 +6,7 @@
 Senior Backend Software Engineer with extensive experience in product enhancement, cloud infrastructure development, API optimization, and promoting diversity, equity, and inclusion (DEI) in the tech industry. Co-inventor of patents, proficient in leading teams, streamlining engineering processes, and experienced in various aspects of backend development.
 
 ## Core Competencies
+- **LangChain and LLMs**: Using LangChain components to build complex text generation pipelines and extending LangChain to implement server-to-browser text streaming
 - **Product Enhancement**: Spearheaded initiatives to improve software functionality, enhancing user experience and product performance.
 - **Webhook and WebSocket Architecture**: Optimized and designed advanced systems for better data handling, workflow efficiency, and real-time operations.
 - **Time Management**: Proven ability to handle multiple projects efficiently under tight deadlines.
