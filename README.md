@@ -18,7 +18,7 @@ Senior Backend Software Engineer with extensive experience in product enhancemen
 
 ## Work History
 ### Postscript (Remote)
-**Senior Backend Software Engineer** (August 2020 – Present)
+**Senior Backend Software Engineer** (August 2020 – January 2024)
 - Led backend development for Postscript Sales and 'Text to Buy' services.
 - Engineered WebSocket infrastructure and cloud-based data streaming solutions.
 - Automated CI/CD pipelines, improving deployment times and reducing error rates.
