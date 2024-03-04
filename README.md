@@ -1,7 +1,6 @@
 # David Lacho
 **Senior Software Engineer | Tech Expert | DEI Advocate**  
 [LinkedIn](www.linkedin.com/in/david-lacho)  
-Winnipeg, Manitoba, Canada  
 
 ## Professional Summary
 Dynamic Senior Full Stack Software Engineer with a proven track record in developing scalable cloud infrastructure, innovative REST APIs, and enhancing product functionality. Recognized for co-inventing a patented backend architecture that significantly advanced the 'Text to Buy' feature. Committed to fostering diversity, equity, and inclusion in the tech industry.
