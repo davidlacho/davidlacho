@@ -3,7 +3,7 @@
 ## Senior Full Stack Software Engineer
 **Location:** Winnipeg, Canada
 
-[LinkedIn](www.linkedin.com/in/david-lacho)  
+[LinkedIn](https://www.linkedin.com/in/david-lacho)  
 
 ---
 
