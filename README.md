@@ -1,95 +1,88 @@
 # David Lacho
-**Senior Software Engineer | Tech Expert | DEI Advocate**  
+
+## Senior Full Stack Software Engineer
+**Location:** Winnipeg, Canada
+
 [LinkedIn](www.linkedin.com/in/david-lacho)  
 
-## Professional Summary
-Dynamic Senior Full Stack Software Engineer with a proven track record in developing scalable cloud infrastructure, innovative REST APIs, and enhancing product functionality. Recognized for co-inventing a patented backend architecture that significantly advanced the 'Text to Buy' feature. Committed to fostering diversity, equity, and inclusion in the tech industry.
+---
 
-## Core Competencies
-- **Product Enhancement:** Expert in advancing platform functionality for enhanced user experiences.
-- **Cloud Infrastructure & Technologies:** Proficient in AWS Lambda, Amazon DynamoDB, Kinesis, and S3.
-- **Software Development:** Versatile in back-end and front-end development, including REST APIs, WebSockets, and full-stack projects.
-- **DEI Advocacy:** Dedicated to promoting diversity, equity, and inclusion within tech environments.
-- **Leadership & Teamwork:** Effective in leading teams towards achieving collective goals through mentorship and collaboration.
+### Professional Summary
+Experienced Senior Full Stack Software Engineer specializing in cloud infrastructure, REST APIs, and product enhancement. Proven track record in innovative feature development, infrastructure optimization, and advocacy for diversity in tech. Co-inventor of patented backend architecture enhancing conversational e-commerce capabilities.
 
-## Work History
+---
 
-### Postscript (Remote)  
-*Senior Backend Software Engineer*  
-August 2020 – Present  
+### Experience
 
-- Led the development of Postscript Sales' backend, significantly enhancing platform functionality.
-- Co-invented a patent for innovative backend architecture, notably advancing the 'Text to Buy' feature.
-- Engineered a robust WebSockets infrastructure and cloud-based data streaming solutions, resulting in markedly accelerated workflows.
-- Successfully integrated conversational features, driving additional revenue streams.
-- Developed a referral program and streamlined engineering onboarding, enhancing team productivity.
-- Elevated the webhook architecture, automated support tasks, and fortified the CI/CD pipeline, leading to a reduction in error rates.
+#### Postscript / Senior Software Engineer and ERG Lead
+- **Duration:** August 2020 - January 2024 (Remote)
+- Engineered backend solutions and WebSockets infrastructure significantly improving real-time operations and user engagement.
+- Led the design and implementation of full-stack features notably enhancing platform reliability and user acquisition.
+- Facilitated cross-functional collaboration improving project delivery through proactive communication and risk management.
 
-### Pride ERG Lead  
-August 2020 – June 2023  
+#### First Peoples' Cultural Council / Full Stack Developer
+- **Duration:** February 2020 - August 2020 (Remote)
+- Led the development of FirstVoices platform enhancements improving usability and extending functionality.
+- Implemented developer tools and best practices elevating code quality and maintainability.
 
-- Led comprehensive oversight of ERG and DEI strategies, significantly enhancing organizational diversity and inclusivity.
+#### QHR Technologies / Software Engineer
+- **Duration:** March 2019 - February 2020 (Vancouver, BC, Canada)
+- Developed and integrated healthcare solutions including video conferencing APIs and user authentication systems.
+- Enhanced product reliability and security through rigorous quality assurance and SonarQube integration.
 
-### Freelance Software Developer  
-*Wise Wombat* (Remote)  
-November 2017 – Present  
+#### Wise Wombat / Freelance Software Engineer
+- **Duration:** November 2017 - August 2020 (Remote)
+- Developed digital solutions for diverse clients including e-commerce platforms and educational tools for Indigenous communities.
 
-- Developed software and websites for diverse stakeholders, delivering tailored digital solutions that enhanced technological capabilities.
+#### The University of British Columbia / Software Engineer
+- **Duration:** September 2012 - February 2020 (Remote)
+- Contributed to projects preserving Indigenous languages and cultures through technology including a map overlaying Tlingit place names and an Online Environmental Encyclopedia for the Kala Language of Papua New Guinea.
 
-### First Peoples' Cultural Council (Remote)  
-*Full Stack Developer*  
-February 2020 – August 2020  
-
-- Spearheaded the development of efficient code for FirstVoices, significantly improving user experience.
-- Implemented innovative developer tools, substantially enhancing code quality and maintainability.
-
-### QHR Technologies  
-*Software Developer*  
-Vancouver, British Columbia, Canada  
-March 2019 – February 2020  
-
-- Developed diverse products including a critical API for video patient conferencing and a robust authentication solution.
-- Introduced a failover system for external TURN/STUN services, ensuring uninterrupted service delivery.
-
-### The University of British Columbia  
-*Software Developer*  
-Kelowna, British Columbia, Canada  
-November 2017 – February 2020  
-
-- Led the development of an online environmental encyclopedia in the Kala language, bridging language and technology.
-
-## Education
-
-**Master's degree, Interdisciplinary Studies**  
-September 2015 – February 2018  
-The University of British Columbia, Kelowna, British Columbia, Canada  
-
-**Bachelor’s degree, Double Major in French and Anthropology**  
-September 2010 – June 2014  
-The University of British Columbia, Kelowna, British Columbia, Canada  
-
-## Skills and Interests
-
-### Patents
-- Text Messaging Service Based Commerce System (20220198431, Filed Jun 23, 2022)
+---
 
 ### Publications
-- Contributions to various research on language and technology intersections, including augmented reality applications and language preservation.
+Contributed to multiple research papers and news articles about language and technology.
 
-### Technical Skills
-- **Web Development:** HTML5, CSS, JavaScript, React, Node.js, Flask
-- **Cloud Technologies:** AWS Lambda, Amazon S3, Amazon DynamoDB, Amazon Kinesis, Amazon Web Services (AWS)
-- **Programming Languages:** Python, JavaScript, SQL
-- **Software Development Practices:** Object-Oriented Programming (OOP), Software Development, Front-end Development, Back-End Web Development, DevOps
-- **Testing:** Unit Testing, Test Driven Development (TDD), Pytest
-- **Version Control:** Git, GitHub
-- **Infrastructure as Code:** Docker, Terraform
-- **APIs and Protocols:** REST (Representational State Transfer), WebSocket, Twilio, API Gateways
-- **Other Technologies:** Redis, Sentry, npm
-- **Standards and Guidelines:** Web Content Accessibility Guidelines (WCAG)
+### Patents
+- Text Messaging Service Based Commerce System (US20220198431A1)
+- Materialization of a shopping cart at an instant messaging platform (US11887178B1)
 
-### Interests
-- Exploring the intersection of technology and language preservation.
-- Continuous learning about new programming languages and development frameworks.
-- Advocacy for diversity, equity, and inclusion in technology.
-- Participation in tech community events and open-source projects.
+---
+
+### Skills
+
+#### Programming Languages
+
+- JavaScript, Python, TypeScript, SQL, HTML5, Terraform
+
+#### Frameworks & Libraries
+
+- React, Node.js, Spring Boot, Flask, Redux
+
+#### Cloud Services & Infrastructure
+
+- AWS (Lambda, DynamoDB, S3, Kinesis), Docker, Kubernetes
+
+#### Development Practices
+
+- OOP, REST APIs, Front & Back-End Development, Microservice Architectures, CI/CD (GitHub Actions, Jenkins), Testing (Unit, Integration, E2E, Automated)
+
+#### Other Technical Skills
+
+- GitHub, SonarQube, Sentry, Redis, Pytest, Hystrix, Google Maps Platform, Databases (Postgres, MySQL), WebSockets, Webhook Architecture, LangChain and LLMs
+
+#### Languages
+
+- **Fluent:** English, French
+- **Elementary:** Tok Pisin, Spanish, German
+
+
+---
+
+### Education
+
+#### The University of British Columbia
+- **Master's Degree in Interdisciplinary Studies**
+  - Sep 2015 – Feb 2018
+- **Bachelor's Degree Double Major in French and Anthropology**
+  - Sep 2010 – Jun 2014
