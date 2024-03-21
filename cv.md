@@ -249,6 +249,7 @@ Developed a website addressing language endangerment issues by combining academi
 
 ## News & Media Coverage
 
+- Health Advocates Increase Pressure on Province to Cover HIV Drug Costs. (2024, February 9). *Winnipeg Free Press*. [Web](https://news.google.com/articles/CBMigAFodHRwczovL3d3dy53aW5uaXBlZ2ZyZWVwcmVzcy5jb20vYnJlYWtpbmduZXdzLzIwMjQvMDIvMDkvaGVhbHRoLWFkdm9jYXRlcy1pbmNyZWFzZS1wcmVzc3VyZS1vbi1wcm92aW5jZS10by1jb3Zlci1oaXYtZHJ1Zy1jb3N0c9IBAA?hl=en-US&gl=US&ceid=US%3Aen)
 - **Leon, Aaron (2018).** "Splatsin Tsm7aksaltn Society," Red Rising Magazine Issue 8: Language.
 - **Infotel.** "Augmented reality app helping to revitalize endangered Secwepemctsin language." [Web](https://infotel.ca/newsitem/augmented-reality-app-helping-to-revitalize-endangered-secwepemctsin-language/it51266).
 - **Enderby River Talk.** "Finding the Splatsin Voice." [Web](https://drive.google.com/file/d/1fOFNJA4Li1cCibgDW3zjB3LthXg9Doyl/view).
