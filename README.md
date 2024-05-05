@@ -14,6 +14,14 @@ Experienced Senior Full Stack Software Engineer specializing in cloud infrastruc
 
 ### Experience
 
+
+#### Safety Cybersecurity / Senior Fullstack Python Engineer
+- **Duration: May 2024 - Present (Remote)
+-  Leading development on the Safety Platform, a central system for vulnerability management in Python development environments.
+- Implementing tools and processes that reduce vulnerability noise by 90%, enabling clearer focus on critical security issues.
+- Designing and deploying central policy management and web-based dashboards to enhance visibility and control over project security.
+- Integrating the Safety CLI Scanner to consolidate scan data across development, CICD, and production systems, streamlining workflows and promoting secure software delivery.
+
 #### Postscript / Senior Software Engineer and ERG Lead
 - **Duration:** August 2020 - January 2024 (Remote)
 - Engineered backend solutions and WebSockets infrastructure significantly improving real-time operations and user engagement.
